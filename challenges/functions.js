@@ -37,6 +37,8 @@ consume("Mary","Poppins", greeting); // Hello Mary Poppins, nice to meet you!
 
 // Explanation: 
 
+// ****York's Answer*** nestedfunction() can access the variable `internal` because it is below the variable in the cascade. You can reach up through the cascade but not down which is why nestedfunction() can access the variable.
+
 
 const external = "I'm outside the function";
 
