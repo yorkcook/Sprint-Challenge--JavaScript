@@ -101,13 +101,6 @@ for (let i = 0; i < graduates.length; i++){
   }
 }
   
-   
-
-  // if (graduates[i].university === "Uni"){
-  //   uni.push(graduates[i].university);
-  // }
-
-
 console.log(uni);
 
 
